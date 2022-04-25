@@ -41,7 +41,7 @@ And we are waiting for the packages to be installed
 3. ### Additionally, we configure Telegram Bot
 
 - In the dialog with `@BotFather` we use the command `/setprivacy`
-- In response to the message, we write the name of the bot that you specified when creating (the name along with `@')
+- In response to the message, we write the name of the bot that you specified when creating (the name along with `@`)
 - In response to the message, we write `DISABLE`
 - We invite the bot to chat
 

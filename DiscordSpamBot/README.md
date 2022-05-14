@@ -1,4 +1,4 @@
-<h1 align="center">Start of work</h1><h1 align="center">Discord Spam Bot</h1>
+<h1 align="center">Discord Spam Bot</h1>
 <h3 align="center">Sometimes it happens when you communicate in discord, you want to make fun of a friend. It is for these purposes that I developed this code. Its original appearance was used in my other bot`s. Now I have finished it and increased the functional. Have fun!</h3>
 
 ##### Navigation:

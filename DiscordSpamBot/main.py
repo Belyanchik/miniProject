@@ -115,7 +115,7 @@ async def help(ctx):    #Message with commands
     emb.add_field(name = "{}pspam".format(PREFIX), value = "Spam in private messages")
     emb.add_field(name = "{}aspam".format(PREFIX), value = "Spam in the current channel and in private messages")
     emb.add_field(name = "{}sspam".format(PREFIX), value = "Stop Spam")
-    emb.add_field(name = "Open source", value = "[GitHub project](https://github.com/Belyanchik)")
+    emb.add_field(name = "Open source", value = "[GitHub project](https://github.com/Belyanchik/miniProject/tree/main/DiscordSpamBot)")
     await ctx.send(embed = emb)
 
 

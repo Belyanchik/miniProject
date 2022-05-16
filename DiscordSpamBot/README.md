@@ -49,7 +49,7 @@ And we are waiting for the packages to be installed
 - In the **Scopes** field, select **bot**, and in the **Bot Permissions** field that appears, BE sure to set the permissions **Read Messages/View Channels** and **Send Messages**, the rest of the permissions are at your discretion
 - By the generated link, we invite the bot to the server
 
-3. Code preparation
+3. ### Code preparation
 
 - On the Discord Developer Portal website, in the **Bot** section, click the **Reset Token** button, confirm the action, copy the token and paste it into the `DSTOKEN` variable in the source code
 

@@ -1,0 +1,8 @@
+/start - Start message;
+/help - Message with all commands;
+/ping - Checking the operation of the computer;
+/screenshot - Screenshot of the current window;
+/all_processes - List of all active processes;
+/kill - Termination of the process;
+/open - Opening a link;
+/id - Your Telegram id
